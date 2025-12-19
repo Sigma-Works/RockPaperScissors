@@ -5,13 +5,19 @@ the computer's score increments by one. Moreover, in the event of a draw, nobody
 
 <h1>Example Outputs: </h1>
 This is what it should look like at the start:
+<br>
 <img width="439" height="741" alt="image" src="https://github.com/user-attachments/assets/8f75e00f-992c-4f43-8665-d014015dbec1" />
+<br>
 
 This is what it may look like after playing a few (randomly generated) rounds with the computer:
+<br>
 <img width="430" height="733" alt="image" src="https://github.com/user-attachments/assets/eb5466ca-5f81-468c-af2c-0a7688a22dcb" />
+<br>
 
 And this is what it may look like in the event of a draw:
+<br>
 <img width="436" height="737" alt="image" src="https://github.com/user-attachments/assets/c3a64d07-4520-4e95-b483-f843068162a1" />
+<br>
 
 
 
